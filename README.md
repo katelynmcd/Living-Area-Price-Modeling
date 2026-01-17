@@ -9,12 +9,11 @@ Century 21 Ames wants to understand how the value of additional living area diff
 - Fit and compared multiple models: base model, interaction model, log-linear model, and log–log model.
 - Ran full diagnostic checks to evaluate linearity, variance, normality, and influential observations.
 - Selected a centered log-linear interaction model for its interpretability and improved assumptions.
-- Interpreted neighborhood-specific slopes to understand how much value additional space adds in each location.
+- Interpreted neighborhood slopes to understand how much value additional space adds in each location.
 
 ## Skills Used
-- **R Programming:** tidyverse, dplyr, ggplot2
-- **Regression Modeling:** linear regression, log-linear regression, interaction terms
-- **Model Assessment:** AIC, R², confidence intervals
+- **R Programming:** tidyverse, ggplot2
+- **Regression Modeling:** linear regression, interaction terms
 - **Diagnostics:** residual analysis, leverage, Cook’s distance, studentized residuals
 - **Data Preparation:** feature creation (Gr100, Gr100.c), filtering, factor encoding
 - **Communication:** interpreting coefficients and neighborhood effects
